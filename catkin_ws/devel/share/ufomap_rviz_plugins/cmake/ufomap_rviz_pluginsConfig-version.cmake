@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/ufomap_rviz_plugins/share/ufomap_rviz_plugins/cmake/ufomap_rviz_pluginsConfig-version.cmake

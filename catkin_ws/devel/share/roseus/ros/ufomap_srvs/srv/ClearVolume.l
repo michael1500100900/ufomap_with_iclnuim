@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/ufomap_srvs/share/roseus/ros/ufomap_srvs/srv/ClearVolume.l

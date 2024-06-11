@@ -1,0 +1,15 @@
+[  0%] Built target ufomap_msgs_generate_messages_lisp
+[  0%] Built target ufomap_msgs_generate_messages_eus
+[  0%] Built target ufomap_msgs_generate_messages_nodejs
+[  0%] Built target ufomap_msgs_generate_messages_cpp
+[  0%] Built target ufomap_msgs_generate_messages_py
+[  0%] Built target _ufomap_srvs_generate_messages_check_deps_GetMap
+[  0%] Built target _ufomap_srvs_generate_messages_check_deps_ClearVolume
+[  0%] Built target _ufomap_srvs_generate_messages_check_deps_SaveMap
+[  0%] Built target _ufomap_srvs_generate_messages_check_deps_Reset
+[ 18%] Built target ufomap_srvs_generate_messages_nodejs
+[ 95%] Built target ufomap_srvs_generate_messages_eus
+[ 95%] Built target ufomap_srvs_generate_messages_py
+[ 95%] Built target ufomap_srvs_generate_messages_cpp
+[100%] Built target ufomap_srvs_generate_messages_lisp
+[100%] Built target ufomap_srvs_generate_messages

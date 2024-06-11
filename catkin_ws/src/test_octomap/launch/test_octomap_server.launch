@@ -1,0 +1,7 @@
+<launch>
+  <node pkg="octomap_server" type="octomap_server_node" name="octomap_server" output="screen">
+    <param name="frame_id" value="map"/>
+    <param name="resolution" value="0.1"/>
+    <param name="filename" value="$(find test_octomap)/data/merged_octomap.bt"/>
+  </node>
+</launch>

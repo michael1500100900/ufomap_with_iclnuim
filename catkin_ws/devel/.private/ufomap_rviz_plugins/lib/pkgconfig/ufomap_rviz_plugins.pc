@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/devel/.private/ufomap_rviz_plugins
+
+Name: ufomap_rviz_plugins
+Description: Description of ufomap_rviz_plugins
+Version: 1.0.0
+Cflags: -I/root/catkin_ws/src/ufomap/ufomap_ros/ufomap_rviz_plugins/include
+Libs: -L${prefix}/lib -lufomap_rviz_plugins
+Requires: roscpp rviz ufomap_msgs ufomap_ros

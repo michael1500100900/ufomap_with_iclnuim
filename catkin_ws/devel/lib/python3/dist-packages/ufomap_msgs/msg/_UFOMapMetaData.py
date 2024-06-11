@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/ufomap_msgs/lib/python3/dist-packages/ufomap_msgs/msg/_UFOMapMetaData.py

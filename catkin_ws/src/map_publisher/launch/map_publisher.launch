@@ -1,0 +1,5 @@
+<launch>
+  <node name="map_publisher" pkg="map_publisher" type="map_publisher.py" output="screen">
+    <param name="image_folder" value="~/office_room_traj2_loop"/>
+  </node>
+</launch>

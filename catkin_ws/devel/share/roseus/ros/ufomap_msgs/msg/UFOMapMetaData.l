@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/ufomap_msgs/share/roseus/ros/ufomap_msgs/msg/UFOMapMetaData.l

@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/install
+
+Name: example_maps
+Description: Description of example_maps
+Version: 1.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

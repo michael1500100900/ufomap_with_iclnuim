@@ -1,0 +1,7 @@
+<launch>
+  <node name="depth_image_proc" pkg="depth_image_proc" type="point_cloud_xyz" output="screen">
+    <remap from="image" to="/camera/depth/image_raw"/>
+    <remap from="info" to="/camera/info"/>
+    <remap from="points" to="/camera/depth/points"/>
+  </node>
+</launch>

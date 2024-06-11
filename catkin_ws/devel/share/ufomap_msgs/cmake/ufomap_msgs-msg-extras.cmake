@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/ufomap_msgs/share/ufomap_msgs/cmake/ufomap_msgs-msg-extras.cmake

@@ -1,0 +1,17 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The CXX compiler identification is GNU 9.4.0
+[36m--[0m Check for working CXX compiler: /usr/bin/c++
+[36m--[0m Check for working CXX compiler: /usr/bin/c++ -- works
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Detecting CXX compile features
+[36m--[0m Detecting CXX compile features - done
+[36m--[0m Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE)
+[36m--[0m Doxygen not found, not building docs
+[36m--[0m Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1")
+[36m--[0m Checking for module 'liblz4'
+[36m--[0m   Found liblz4, version 1.9.2
+[36m--[0m UFOMAP BMI2 instructions disabled
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /root/catkin_ws/build/ufomap

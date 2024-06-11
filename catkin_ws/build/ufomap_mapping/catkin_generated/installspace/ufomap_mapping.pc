@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/install
+
+Name: ufomap_mapping
+Description: Description of ufomap_mapping
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

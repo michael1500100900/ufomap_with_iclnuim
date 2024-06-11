@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/devel/.private/test_octomap
+
+Name: test_octomap
+Description: Description of test_octomap
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs octomap_msgs octomap_ros octomap_server

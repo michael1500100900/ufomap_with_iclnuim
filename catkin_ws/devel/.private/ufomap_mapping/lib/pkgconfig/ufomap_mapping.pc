@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/devel/.private/ufomap_mapping
+
+Name: ufomap_mapping
+Description: Description of ufomap_mapping
+Version: 1.0.0
+Cflags: -I/root/catkin_ws/devel/.private/ufomap_mapping/include -I/root/catkin_ws/src/ufomap/ufomap_ros/ufomap_mapping/include
+Libs: -L${prefix}/lib 
+Requires: 

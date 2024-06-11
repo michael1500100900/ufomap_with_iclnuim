@@ -1,0 +1,2 @@
+/usr/bin/ar qc /root/catkin_ws/devel/.private/ufomap_ros/lib/libufomap_ros.a  CMakeFiles/ufomap_ros.dir/src/conversions.cpp.o
+/usr/bin/ranlib /root/catkin_ws/devel/.private/ufomap_ros/lib/libufomap_ros.a

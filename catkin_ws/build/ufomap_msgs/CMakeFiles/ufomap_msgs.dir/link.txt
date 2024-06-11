@@ -1,0 +1,2 @@
+/usr/bin/ar qc /root/catkin_ws/devel/.private/ufomap_msgs/lib/libufomap_msgs.a  CMakeFiles/ufomap_msgs.dir/src/conversions.cpp.o
+/usr/bin/ranlib /root/catkin_ws/devel/.private/ufomap_msgs/lib/libufomap_msgs.a

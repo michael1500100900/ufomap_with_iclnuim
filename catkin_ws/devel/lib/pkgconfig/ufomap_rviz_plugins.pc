@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/ufomap_rviz_plugins/lib/pkgconfig/ufomap_rviz_plugins.pc
